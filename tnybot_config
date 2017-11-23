@@ -3,13 +3,13 @@ user = xxx@xxx.com
 pass = XXXXXXXXXXXXXXXXXXXXXXXXXX
 
 [OAuth]
-token = XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+token = MzM5MjIwMjU4MDI2MTYwMTMx.DPfeng.z84V4nTl8YwPmmuPzk-6EmfoUjY
 
 [Postgres]
 url = postgres://username:mypostgres.hostname.com:5432/XXXXXXXXXX
 
 [TimeZone]
-tz = US/Pacific
+tz = US/Central
 
 [Images]
 dir = /home/discord/tnybot
